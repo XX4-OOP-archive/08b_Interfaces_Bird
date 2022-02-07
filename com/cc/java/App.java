@@ -4,8 +4,9 @@ public class App {
     
     public static void main(String[] args) {
 
-
         Bird bird = new Bird();
+
+        output(bird.fly());
 
     
     }
